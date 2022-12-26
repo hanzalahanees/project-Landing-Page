@@ -166,3 +166,60 @@ button {
 /********************************************
 *   Quote Section End here                  *
 ********************************************/
+
+/********************************************
+*                                           *
+*   call Section Start here                 *
+*                                           *
+********************************************/
+
+
+.call-to-action {
+    background-color: #3882f6;
+    margin: 90px;
+    padding: 32px;
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 64px;
+}
+
+.call-to-action h4 {
+    color: white;
+    margin-bottom: 0px;
+
+
+}
+
+.call-to-action p {
+    font-size: 12px;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+
+.call-to-action-btn {
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+}
+/********************************************
+*   Call Section End here                   *
+********************************************/
+
+/********************************************
+*                                           *
+*   footer Section Start here               *
+*                                           *
+********************************************/
+footer {
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    padding: 16px;
+}
+/********************************************
+*   footer Section End here                 *
+********************************************/
