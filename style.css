@@ -131,3 +131,38 @@ button {
 /********************************************
 *   info Section End here                   *
 ********************************************/
+
+/********************************************
+*                                           *
+*   Quote Section Start here                *
+*                                           *
+********************************************/
+
+.quote-section {
+    background-color: #E5E7EB;
+    padding: 0 90px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 80px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    /* font-weight: lighter; */
+    color: #1F2937;
+    margin-bottom: 0px;
+}
+
+.thor {
+    align-self: flex-end;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+/********************************************
+*   Quote Section End here                  *
+********************************************/
