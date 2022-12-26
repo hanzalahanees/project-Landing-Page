@@ -87,3 +87,47 @@ button {
 /********************************************
 *   Hero Section End here                   *
 ********************************************/
+
+/********************************************
+*                                           *
+*   Info Section Start here                 *
+*                                           *
+********************************************/
+.info-container {
+    /* background-color: tomato; */
+    margin-top: 80px;
+    padding-bottom: 80px;
+}
+
+.info-container h1 {
+    font-size: 36px;
+    font-weight: 600;
+    color: #1F2937;
+    text-align: center;
+
+}
+
+.img-container {
+    padding: 16px 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+
+.img-container img {
+    width: 150px;
+    height: 150px;
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+
+.img-container p {
+    width: 150px;
+    font-size: 16px;
+    text-align: center;
+}
+
+/********************************************
+*   info Section End here                   *
+********************************************/
