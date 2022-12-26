@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: arial, sans-serif;
+}
+/********************************************
+*                                           *
+*   Hero Section Start here                 *
+*                                           *
+********************************************/
+.hero {
+    background-color: #1F2937;
+
+}
+
+.header {
+    color: #E5E7EB;
+    font-size: 18px;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.logo {
+    width: 36px;
+    height: 36px;
+    padding: 4px 16px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 16px;
+    display: flex;
+    gap: 8px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+    padding: 8px;
+}
+
+.hero-primary-container {
+    /* background-color: brown; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 80px;
+}
+
+.text-container {
+    padding: 4px 16px;
+}
+
+.main-text {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.welcome-img {
+    height: 300px;
+    width: 800px;
+}
+
+button {
+    font-size: 14px;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 20px;
+
+}
+
+.hero-btn {
+    background-color: #3882F6;
+    color: white;
+}
+/********************************************
+*                                           *
+*   Hero Section End here                   *
+*                                           *
+********************************************/
